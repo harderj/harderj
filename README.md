@@ -4,4 +4,4 @@ MSc. in mathematics and Software Developer/Engineer based in Copenhagen.
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harderj&size_weight=0.25&count_weight=0.5&layout=donut&theme=highcontrast&langs_count=8)](https://github.com/harderj)
 
-[![WakaTime Graph](https://github-readme-stats.vercel.app/api/wakatime?username=harderj&theme=highcontrast&layout=compact)](https://wakatime.com/@harderj)
+[![WakaTime (started 11th of June 2025)](https://github-readme-stats.vercel.app/api/wakatime?username=harderj&theme=highcontrast&layout=compact)](https://wakatime.com/@harderj)
