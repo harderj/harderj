@@ -1,6 +1,6 @@
 ## Jacob Harder
 
-Software Developer & M.Sc. in Mathematics ([University of Copenhagen][https://www.ku.dk/en]) based in Copenhagen.
+Software Developer & M.Sc. in Mathematics (from [University of Copenhagen][https://www.ku.dk/en]) based in Copenhagen.
 
 Currently working @ [Alexandra Instituttet](https://alexandra.dk/about-the-alexandra-institute/)
 
