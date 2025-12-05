@@ -7,3 +7,4 @@ Currently working @ [Alexandra Instituttet](https://alexandra.dk/about-the-alexa
 ### Some stats
 
 ![Wakatime](https://wakatime.com/share/@harderj/00322ad6-e924-4200-820b-34a70ed4f962.svg)
+(since June 11th 2025)
